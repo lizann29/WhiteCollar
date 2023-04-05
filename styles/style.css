@@ -1,0 +1,45 @@
+.header-wraper{
+    display: flex;
+}
+.ul-items{
+    display: flex;
+}
+
+/* presentation section style */
+.image-banner{
+    width: 100%;
+}
+
+.blue-icon{
+    background-color: #6B77E5;
+    width: 64.5px;
+    height: 64.5px;  
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+.image-wra0per{
+    display: flex;
+    position: relative;
+}
+.text-block{
+width: 551px;
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%, -50%);
+text-align: center;
+}
+.text-block-title{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
+.text-block-title-presentation{
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+}
+.text-description{
+    font-size: 18px;
+    font-family: 'Inter', sans-serif;
+}
